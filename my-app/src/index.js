@@ -6,3 +6,6 @@ import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
+
+const emojiSearch = require('bobby-emoji-search');
+console.log(emojiSearch.findEmojis("Hello 🐼! What's up? ✌️"));
