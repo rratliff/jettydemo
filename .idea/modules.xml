@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jettydemo.iml" filepath="$PROJECT_DIR$/.idea/modules/jettydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jettydemo.iml" filepath="$PROJECT_DIR$/.idea/modules/jettydemo.iml" group="jettydemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jettydemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jettydemo_main.iml" group="jettydemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jettydemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jettydemo_test.iml" group="jettydemo" />
     </modules>
